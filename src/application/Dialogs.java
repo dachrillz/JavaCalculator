@@ -16,5 +16,6 @@ public class Dialogs {
 		alert.setHeaderText(headerText);
 		alert.setContentText(infoText);
 		alert.showAndWait();
+		System.out.print("hej");
 	}
 }
