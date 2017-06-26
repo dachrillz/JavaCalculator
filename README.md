@@ -1,1 +1,1 @@
-# JavaCalculator
+# JavaCalculator, made with JavaFX
